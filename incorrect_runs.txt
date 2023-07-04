@@ -1,0 +1,4 @@
+List of failed runs, where quicklook file doesn't have "end of sequence calculation":
+9, 10, 13, 16, 24, 41, 59, 69, 80, 83, 119, 122, 127, 130, 149, 168, 224, 227, 235, 270, 271, 288, 299
+
+List of runs, which didn't run at all (there was some other issue. this sample is not included in the data at all): 300
